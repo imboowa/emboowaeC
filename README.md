@@ -1,4 +1,4 @@
-# Immanuel Mboowa
+# Decryption Program
 
 This is a program to decrypt what was encrypted in the file [emboowaeC-](https://github.com/imboowa/emboowaeC-) so just type in your text to encrypt and then decrypt it in this file.
 ## About Me
