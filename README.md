@@ -14,7 +14,7 @@ I am a passionate developer with expertise in **Python** and **C++** programming
 
 You can view my live website hosted on GitHub Pages here:
 
-[https://imboowa.github.io/](https://imboowa.github.io/)
+[https://imboowa.github.io/](https://imboowa.github.io/ImmanuelMboowa)
 
 ## Contact
 
