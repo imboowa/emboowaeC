@@ -3,12 +3,12 @@
 This is a program to decrypt what was encrypted in the file [emboowaeC-](https://github.com/imboowa/emboowaeC-) so just type in your text to encrypt and then decrypt it in this file.
 ## About Me
 
-I am a passionate developer with expertise in **Python** and **C++** programming. I am particularly interested in **Artificial Intelligence**, **Computational Biology**, and **Animation**. My goal is to create innovative solutions that contribute to these fields.
+I am a passionate developer with expertise in **Python** and **C++** programming. I am particularly interested in **Artificial Intelligence**, **Computational Biology**, **Web Development**, and **Animation**. My goal is to create innovative solutions that contribute to these fields.
 
 ## Technologies Used
 
 - **Programming Languages**: C++
-- **Tools**: Git, GitHub, VS Code
+- **Tools**: GitHub, VS Code
 
 ## Live Website
 
