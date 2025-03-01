@@ -1,6 +1,6 @@
 # Decryption Program
 
-This is a program to decrypt what was encrypted in the file [emboowaeC-](https://github.com/imboowa/emboowaeC-) so just type in your text to encrypt and then decrypt it in this file.
+This is a program to decrypt what was encrypted in the file [emboowaeC-](https://github.com/imboowa/emboowaeC-) so just type in your text to encrypt and then decrypt it in this file [emboowaeC-](https://github.com/imboowa/emboowaeC-).
 ## About Me
 
 I am a passionate developer with expertise in **Python** and **C++** programming. I am particularly interested in **Artificial Intelligence**, **Computational Biology**, **Web Development**, and **Animation**. My goal is to create innovative solutions that contribute to these fields.
